@@ -13,8 +13,8 @@ const btn2=document.getElementById("submit2");
 const keyword=document.getElementById("keyword");
 const result=document.getElementById("result");
 const key="caa04fbc3b9548c7914214df04016dfa";
-const url = "http://newsapi.org/v2/top-headlines?country=in&apiKey=";
-const url2="http://newsapi.org/v2/everything?";
+const url = "https://newsapi.org/v2/top-headlines?country=in&apiKey=";
+const url2="https://newsapi.org/v2/everything?";
 
 
 
